@@ -27,7 +27,9 @@ async function run(){
 
     }
 }
+// mustbe added this line
 run().catch(console.dir);
+
 
 
 console.log(uri);
